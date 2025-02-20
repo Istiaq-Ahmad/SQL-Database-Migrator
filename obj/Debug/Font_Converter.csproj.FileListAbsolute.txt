@@ -1,0 +1,41 @@
+D:\PIRTHE Limited\Project Data Conversion\Project_Font_Conversion\Project_Font_Conversion_02\Font_Converter\bin\Debug\Font_Converter.exe.config
+D:\PIRTHE Limited\Project Data Conversion\Project_Font_Conversion\Project_Font_Conversion_02\Font_Converter\bin\Debug\Font_Converter.exe
+D:\PIRTHE Limited\Project Data Conversion\Project_Font_Conversion\Project_Font_Conversion_02\Font_Converter\bin\Debug\Font_Converter.pdb
+D:\PIRTHE Limited\Project Data Conversion\Project_Font_Conversion\Project_Font_Conversion_02\Font_Converter\bin\Debug\System.Data.SqlClient.dll
+D:\PIRTHE Limited\Project Data Conversion\Project_Font_Conversion\Project_Font_Conversion_02\Font_Converter\bin\Debug\System.Data.SqlClient.xml
+D:\PIRTHE Limited\Project Data Conversion\Project_Font_Conversion\Project_Font_Conversion_02\Font_Converter\obj\Debug\Font_Converter.csproj.AssemblyReference.cache
+D:\PIRTHE Limited\Project Data Conversion\Project_Font_Conversion\Project_Font_Conversion_02\Font_Converter\obj\Debug\MainWindow.baml
+D:\PIRTHE Limited\Project Data Conversion\Project_Font_Conversion\Project_Font_Conversion_02\Font_Converter\obj\Debug\MainWindow.g.cs
+D:\PIRTHE Limited\Project Data Conversion\Project_Font_Conversion\Project_Font_Conversion_02\Font_Converter\obj\Debug\App.g.cs
+D:\PIRTHE Limited\Project Data Conversion\Project_Font_Conversion\Project_Font_Conversion_02\Font_Converter\obj\Debug\Font_Converter_MarkupCompile.cache
+D:\PIRTHE Limited\Project Data Conversion\Project_Font_Conversion\Project_Font_Conversion_02\Font_Converter\obj\Debug\Font_Converter.g.resources
+D:\PIRTHE Limited\Project Data Conversion\Project_Font_Conversion\Project_Font_Conversion_02\Font_Converter\obj\Debug\Font_Converter.Properties.Resources.resources
+D:\PIRTHE Limited\Project Data Conversion\Project_Font_Conversion\Project_Font_Conversion_02\Font_Converter\obj\Debug\Font_Converter.csproj.GenerateResource.cache
+D:\PIRTHE Limited\Project Data Conversion\Project_Font_Conversion\Project_Font_Conversion_02\Font_Converter\obj\Debug\Font_Converter.csproj.CoreCompileInputs.cache
+D:\PIRTHE Limited\Project Data Conversion\Project_Font_Conversion\Project_Font_Conversion_02\Font_Converter\obj\Debug\Font_Con.20BAD8A7.Up2Date
+D:\PIRTHE Limited\Project Data Conversion\Project_Font_Conversion\Project_Font_Conversion_02\Font_Converter\obj\Debug\Font_Converter.exe
+D:\PIRTHE Limited\Project Data Conversion\Project_Font_Conversion\Project_Font_Conversion_02\Font_Converter\obj\Debug\Font_Converter.pdb
+D:\PIRTHE Limited\Project Data Conversion\Project_Font_Conversion\Project_Font_Conversion_02\Font_Converter\bin\Debug\System.Data.OleDb.dll
+D:\PIRTHE Limited\Project Data Conversion\Project_Font_Conversion\Project_Font_Conversion_02\Font_Converter\bin\Debug\System.Data.OleDb.xml
+E:\Pirthe Limited 2025\Project Font Conversion\Font_Converter\Font_Converter\Font_Converter\bin\Debug\Font_Converter.exe.config
+E:\Pirthe Limited 2025\Project Font Conversion\Font_Converter\Font_Converter\Font_Converter\bin\Debug\Font_Converter.exe
+E:\Pirthe Limited 2025\Project Font Conversion\Font_Converter\Font_Converter\Font_Converter\bin\Debug\Font_Converter.pdb
+E:\Pirthe Limited 2025\Project Font Conversion\Font_Converter\Font_Converter\Font_Converter\bin\Debug\System.Data.OleDb.dll
+E:\Pirthe Limited 2025\Project Font Conversion\Font_Converter\Font_Converter\Font_Converter\bin\Debug\System.Data.SqlClient.dll
+E:\Pirthe Limited 2025\Project Font Conversion\Font_Converter\Font_Converter\Font_Converter\bin\Debug\System.Data.OleDb.xml
+E:\Pirthe Limited 2025\Project Font Conversion\Font_Converter\Font_Converter\Font_Converter\bin\Debug\System.Data.SqlClient.xml
+E:\Pirthe Limited 2025\Project Font Conversion\Font_Converter\Font_Converter\Font_Converter\obj\Debug\Font_Converter.csproj.AssemblyReference.cache
+E:\Pirthe Limited 2025\Project Font Conversion\Font_Converter\Font_Converter\Font_Converter\obj\Debug\MainWindow.baml
+E:\Pirthe Limited 2025\Project Font Conversion\Font_Converter\Font_Converter\Font_Converter\obj\Debug\FontInfo.g.cs
+E:\Pirthe Limited 2025\Project Font Conversion\Font_Converter\Font_Converter\Font_Converter\obj\Debug\MainWindow.g.cs
+E:\Pirthe Limited 2025\Project Font Conversion\Font_Converter\Font_Converter\Font_Converter\obj\Debug\App.g.cs
+E:\Pirthe Limited 2025\Project Font Conversion\Font_Converter\Font_Converter\Font_Converter\obj\Debug\Font_Converter_MarkupCompile.cache
+E:\Pirthe Limited 2025\Project Font Conversion\Font_Converter\Font_Converter\Font_Converter\obj\Debug\Font_Converter_MarkupCompile.lref
+E:\Pirthe Limited 2025\Project Font Conversion\Font_Converter\Font_Converter\Font_Converter\obj\Debug\FontInfo.baml
+E:\Pirthe Limited 2025\Project Font Conversion\Font_Converter\Font_Converter\Font_Converter\obj\Debug\Font_Converter.g.resources
+E:\Pirthe Limited 2025\Project Font Conversion\Font_Converter\Font_Converter\Font_Converter\obj\Debug\Font_Converter.Properties.Resources.resources
+E:\Pirthe Limited 2025\Project Font Conversion\Font_Converter\Font_Converter\Font_Converter\obj\Debug\Font_Converter.csproj.GenerateResource.cache
+E:\Pirthe Limited 2025\Project Font Conversion\Font_Converter\Font_Converter\Font_Converter\obj\Debug\Font_Converter.csproj.CoreCompileInputs.cache
+E:\Pirthe Limited 2025\Project Font Conversion\Font_Converter\Font_Converter\Font_Converter\obj\Debug\Font_Con.20BAD8A7.Up2Date
+E:\Pirthe Limited 2025\Project Font Conversion\Font_Converter\Font_Converter\Font_Converter\obj\Debug\Font_Converter.exe
+E:\Pirthe Limited 2025\Project Font Conversion\Font_Converter\Font_Converter\Font_Converter\obj\Debug\Font_Converter.pdb
